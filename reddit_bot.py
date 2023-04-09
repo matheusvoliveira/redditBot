@@ -5,7 +5,7 @@ import config
 import time
 
 
-def bot_login():
+def bot_login() :
     print('Logging in...')
     r = praw.Reddit(username=config.username,
                     password=config.password,
@@ -13,7 +13,7 @@ def bot_login():
                     client_secret=config.client_secret,
                     user_agent="Tricky_Calendar8130's dog comment responder v.01")
     print('Logged in...')
-    return r 
+    return r
 
 
 def run_bot(r, comment_replied_to):
