@@ -1,4 +1,4 @@
-username = #insert your username here
-password = #insert your password here
-client_id = #insert your client_id here
-client_secret = #insert your client_secret here
+username = 'Tricky_Calendar8130'
+password = 'soares007'
+client_id = 'QJU0bVlvyUZ32GMQCK-hNw'
+client_secret = 'v_oS0JlsVic4YWg73FDHE1mle6-RXA'
